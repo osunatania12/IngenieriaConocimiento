@@ -13,3 +13,4 @@ Soy estudiante de Ing en Tecnologías de la Información y comunicaciones en Ins
 - 🍺🍗Disfruto viajar, conocer nuevos lugares, sus costumbres, alimentos
 - 💃Me gusta mucho escuchar musica, bailar, cantar, convivir con familiares y amigos, entre muchas actividades más
 
+Pueden contactarme al correo *tania.osuna16@tectijuana.edu.mx*.
