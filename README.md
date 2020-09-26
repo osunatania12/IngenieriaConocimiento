@@ -2,7 +2,7 @@
 
 ![](https://media1.giphy.com/media/IwTWTsUzmIicM/giphy.gif)
 
-###Un poco sobre mi...✨
+##Un poco sobre mi...✨
 ___
 Soy estudiante de Ing en Tecnologías de la Información y comunicaciones en Instituto Tecnológico de Tijuana. 
 
