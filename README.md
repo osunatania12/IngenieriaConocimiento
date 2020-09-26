@@ -21,7 +21,7 @@ Soy estudiante de Ing en Tecnologías de la Información y comunicaciones en Ins
 | ASP.NET | Bootstrap | Apache Server |
 | HTML/CSS           | Team Foundation Server        | MongoDB           |
 | C# | Azure |    Robo 3T |
-| Python | SharePoint |    TRESS |
+| Python | SharePoint 2010, 2013, Online |    TRESS |
 
 
 Pueden contactarme al correo *tania.osuna16@tectijuana.edu.mx*.
