@@ -13,4 +13,15 @@ Soy estudiante de Ing en Tecnologías de la Información y comunicaciones en Ins
 - 🍺🍗Disfruto viajar, conocer nuevos lugares, sus costumbres, alimentos
 - 💃Me gusta mucho escuchar musica, bailar, cantar, convivir con familiares y amigos, entre muchas actividades más
 
+### Conocimientos relacionados a mi carrera:📂
+
+|  Lenguajes/Codigo  |      Frameworks/Sistemas      |  Servers/Sistemas |
+|--------------------|:-----------------------------:|------------------:|
+| Java  | Visual Studio| SQL Server |
+| ASP.NET | Bootstrap | Apache Server |
+| HTML/CSS           | Team Foundation Server        | MongoDB           |
+| C# | Azure |    Robo 3T |
+| Python | SharePoint |    TRESS |
+
+
 Pueden contactarme al correo *tania.osuna16@tectijuana.edu.mx*.
